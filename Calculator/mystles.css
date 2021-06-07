@@ -1,0 +1,22 @@
+label,
+input {
+  display: block;
+  width: 21%;
+  padding: 5px;
+  border-radius: 4px;
+}
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+button {
+  font-size: 30px;
+  margin-top: 10px;
+  border: 1px solid lightgray;
+  width: 5%;
+  background-color: lightblue;
+}
+#answer {
+  font-size: 30px;
+  color: cadetblue;
+}
