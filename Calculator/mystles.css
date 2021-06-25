@@ -2,7 +2,7 @@ label,
 input {
   display: block;
   width: 21%;
-  padding: 5px;
+  margin-bottom: 5px;
   border-radius: 4px;
 }
 body {
@@ -10,13 +10,13 @@ body {
   margin-right: 50px;
 }
 button {
-  font-size: 30px;
+  font-size: 20px;
   margin-top: 10px;
   border: 1px solid lightgray;
   width: 5%;
   background-color: lightblue;
+  cursor: pointer;
 }
 #answer {
-  font-size: 30px;
-  color: cadetblue;
+  font-weight: bold;
 }

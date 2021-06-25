@@ -3,8 +3,10 @@ function add() {
 
     //take number 1 from input box "n1" and store it in a variable named "input1"
     var input1=Number(document.getElementById("n1").value);
-     //take number 1 from input box "n1" and store it in a variable named "input1"
-    var input2=Number(document.getElementById("n2").value)
+
+     //take number 2 from input box "n1" and store it in a variable named "input2"
+    var input2=Number(document.getElementById("n2").value);
+    
     //add input 1 and input 2 and store it in a variable named "result"
     var result = input1 + input2;
 
